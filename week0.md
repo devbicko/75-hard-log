@@ -26,3 +26,13 @@ oscartime game in scratch
 ivy game + cake
 
 _end of lecture_
+
+01/06 reflection/thoughts:
+
+- finished the scratch game
+- going to look into the next chapter unless there are other assignments/tasks to do for the first week.
+- looking forward to getting into the coding aspect of the course
+
+01/07 reflection/thoughts:
+
+- thoughts go here
